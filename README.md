@@ -11,7 +11,7 @@ This project investigates how ventricular geometry, myocardial fiber architectur
 *Active contraction computed by our solver.*
 
 **Authors:** Davide Mauri, Tommaso Roncaglio, Tommaso Viganò, Lorenzo Zani  
-**Project presentation:** 25 February 2026
+
 
 ## Main features
 
@@ -156,11 +156,8 @@ This test adds a spatially varying fiber architecture and active stress to the p
 
 </details>
 
-The comparisons reproduce the results presented in the project slides. They provide a visual assessment of the deformation profiles; quantitative error norms and mesh-convergence results are not reported in the presentation.
 
 ## References and figures
 
 - Land, S. et al. (2015). *Verification of cardiac mechanics software: benchmark problems and solutions for testing active and passive material behaviour.* Proceedings of the Royal Society A, 471, 20150641. [DOI: 10.1098/rspa.2015.0641](https://doi.org/10.1098/rspa.2015.0641).
-- Project presentation: *Non-linear Cardiac Mechanics*, 25 February 2026.
 
-Figures were extracted from the project presentation. Panels labeled **Our solver** show the project's results; panels labeled **Benchmark (Land et al.)** reproduce the reference comparisons included in the slides. Paired plots have been arranged side by side for readability, preserving their original axes and legends.
