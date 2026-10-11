@@ -1,7 +1,5 @@
 # Nonlinear Cardiac Mechanics
 
-**A three-dimensional finite element solver for passive deformation and active contraction of an idealized left ventricle.**
-
 This project investigates how ventricular geometry, myocardial fiber architecture, internal pressure, and external constraints influence cardiac deformation. It combines nonlinear continuum mechanics, anisotropic hyperelastic material models, and a Newton-Raphson solver, with benchmark comparisons and post-processing of ventricular volumes, strains, and rotation.
 
 <p align="center">
